@@ -22,7 +22,7 @@ param environmentName string
     type: 'location'
     // quota-validation for ai models: gpt-4o-mini
     usageName: [
-      'OpenAI.GlobalStandard.gpt-4o-mini,80'
+      'OpenAI.GlobalStandard.gpt-4o-mini,70'
     ]
   }
 })
